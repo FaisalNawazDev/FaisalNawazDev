@@ -1,6 +1,6 @@
 <h1> Hello Fellow < Coders/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%237B6548&size=25&center=true&vCenter=true&lines=I+am+Faisal+Nawaz;Machine+Learning+Engineer";"https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?color=%237B6548&size=25&center=true&vCenter=true&lines=I+am+Faisal+Nawaz;AI+Engineer";"https://git.io/typing-svg">
 </p>
 <p align='center'>
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
