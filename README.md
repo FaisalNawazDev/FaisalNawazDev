@@ -51,7 +51,7 @@
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MachineLearning-%23E34F26.svg?style=for-the-badge&logo=MachineLearning&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/DeepLearning-%231572B6.svg?style=for-the-badge&logo=DeepLearning&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/GenAI%23323330.svg?style=for-the-badge&logo=GenAI&logoColor=%23F7DF1E">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/GenAI-%23323330.svg?style=for-the-badge&logo=GenAI&logoColor=%23F7DF1E">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">&nbsp;&nbsp;
 </p>
